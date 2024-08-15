@@ -19,6 +19,7 @@ PVA（使用 PVA | 粗略校准）
 - 0.20mm - Multi Material
 
 Single Material：适用于正常的单材料打印，拥有较高的效率，可以生成正常的支撑
+
 Multi Material：适用于使用主体材料和支撑材料打印一个模型，或者对模型进行多色打印，不过如果需要在多色打印的同时生成支撑，请将单材料参数中有关支撑的耗材参数迁移到多材料，以保持模型能被正常打印。
 
 ### 备注
@@ -46,6 +47,7 @@ PVA (using PVA | rough estimation)
 - 0.20mm - Multi Material
 
 Single Material: suitable for normal single material printing, with higher efficiency and capable of generating normal supports
+
 Multi Material: suitable for printing a model using main and support materials, or for multi-color printing on a model. However, if support is needed simultaneously with multi-color printing, transfer the support-related consumable parameters from single material to multi-material to ensure the model can be printed correctly.
 
 ### Notes
