@@ -4,13 +4,13 @@
 由于 Orca Slicer 里面的 Snapmaker J1 预设在我的打印机上表现得非常糟糕，因此我花了 7 天时间对这台机器重新调整了参数，参数主要包括：
 
 ### 材料预设
-PLA（使用 JAYO PLA、R3D PLA | 精细校准）
-PLA Slik（基于 PLA 材料预设进行推算）
-PETG（使用 Tinmorry PETG、R3D PETG | 精细校准）
-TPU（使用 Tinmorry TPU | 粗略校准）
-PETG-CF（基于 PETG 材料预设进行推算）
-PA（基于 PA 材料预设，以及之前使用的 Bing3D PA 材料参数进行推算）
-PVA（使用 PVA | 粗略校准）
+- PLA - PLUS（使用 JAYO PLA、R3D PLA | 精细校准）
+- PLA Slik - PLUS（基于 PLA 材料预设进行推算）
+- PETG - PLUS（使用 Tinmorry PETG、R3D PETG | 精细校准）
+- TPU - PLUS（使用 Tinmorry TPU | 粗略校准）
+- PETG-CF - PLUS（基于 PETG 材料预设进行推算）
+- PA - PLUS（基于 PA 材料预设，以及之前使用的 Bing3D PA 材料参数进行推算）
+- PVA - PLUS（使用 PVA | 粗略校准）
 
 ### 工艺预设
 - 0.16mm - Single Material
@@ -32,13 +32,13 @@ Multi Material：适用于使用主体材料和支撑材料打印一个模型，
 Due to the poor performance of the Snapmaker J1 preset in Orca Slicer on my printer, I spent 7 days re-adjusting the parameters for this machine, including mainly:
 
 ### Material Presets
-PLA (using JAYO PLA, R3D PLA | fine-tuned)
-PLA Slik (based on PLA material presets)
-PETG (using Tinmorry PETG, R3D PETG | fine-tuned)
-TPU (using Tinmorry TPU | rough estimation)
-PETG-CF (based on PETG material presets)
-PA (based on PA material presets, and calculations based on previous Bing3D PA material parameters)
-PVA (using PVA | rough estimation)
+- PLA - PLUS (using JAYO PLA, R3D PLA | fine-tuned)
+- PLA Slik - PLUS (based on PLA material presets)
+- PETG - PLUS (using Tinmorry PETG, R3D PETG | fine-tuned)
+- TPU - PLUS (using Tinmorry TPU | rough estimation)
+- PETG-CF - PLUS (based on PETG material presets)
+- PA - PLUS (based on PA material presets, and calculations based on previous Bing3D PA material parameters)
+- PVA - PLUS (using PVA | rough estimation)
 
 ### Process Presets
 - 0.16mm - Single Material
