@@ -32,7 +32,7 @@ Multi Material: (specially optimized for 90-degree overhang angle) Suitable for 
 Multi Material 2: (specially optimized for other overhang angles, suitable for harder support materials) Suitable for printing a model using both main and support materials, or for multi-color printing. However, if supports are needed during multi-color printing, transfer the support-related consumable parameters from single material to multi-material to ensure the model can be printed correctly.
 
 ### Note
-- These parameters may not be suitable for Orca V2.2.0+. Once Orva V2.2.0+ is stable, we will migrate to Orva V2.2.0+.
+- These parameters may not be suitable for Orca V2.2.0+. Once Orca V2.2.0+ is stable, we will migrate to Orca V2.2.0+.
 - Due to the use of model inner wall speed for the outer wall speed of the ooze tower in Orca V2.1.1, the inner wall print speed for multi-material parameters had to be reduced to maintain stability.
 - If you need to use multi-material printing, to prevent the ooze tower from collapsing, set the wipe volume when changing consumables to 10 - 25 (increasing with height, generally not exceeding 25). Alternatively, set the wipe factor to 0 in the wipe volume multiplier to apply the minimum wipe for each consumable.
 - ![image](https://github.com/user-attachments/assets/069a852a-4141-4968-9bd5-6c23eec8b397)
@@ -75,7 +75,7 @@ Multi Material：（针对90度悬垂角度进行特别优化）适用于使用�
 Multi Material 2：（针对其他悬垂角度进行特别优化，适合比较硬的支撑材料）适用于使用主体材料和支撑材料打印一个模型，或者对模型进行多色打印，不过如果需要在多色打印的同时生成支撑，请将单材料参数中有关支撑的耗材参数迁移到多材料，以保持模型能被正常打印。
 
 ### 备注
-- 该参数可能不适用于 Orca V2.2.0+，Orva V2.2.0+ 稳定后，我们将会迁移至Orva V2.2.0+
+- 该参数可能不适用于 Orca V2.2.0+，Orca V2.2.0+ 稳定后，我们将会迁移至 Orca V2.2.0+
 - 由于 Orca V2.1.1 擦料塔外墙速度使用的是模型内墙速度，因此我不得不降低多材料参数的内墙打印速度以保持稳定
 - 如果您需要使用多材料打印，为了材料塔不倒塌，请将擦料塔更换耗材时的冲刷量设置为 10 - 25（随高度增加，一般不超过 25），当然也有更简单的方法，在冲刷体积的倍率中设置为0，即可应用各耗材的最低冲刷。
 - ![image](https://github.com/user-attachments/assets/069a852a-4141-4968-9bd5-6c23eec8b397)
