@@ -53,10 +53,15 @@ Multi Material 2: (specially optimized for other overhang angles, suitable for h
 - PVA - PLUS（使用 PVA 校准）
 
 ### 工艺预设
+- 0.12mm - Single Material
+- 0.12mm - Multi Material
+- 0.12mm - Multi Material 2
 - 0.16mm - Single Material
 - 0.16mm - Multi Material
+- 0.16mm - Multi Material 2
 - 0.20mm - Single Material
 - 0.20mm - Multi Material
+- 0.20mm - Multi Material 2
 
 Single Material：适用于正常的单材料打印，拥有较高的效率，可以生成正常的支撑
 
