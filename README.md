@@ -15,10 +15,15 @@ Due to the poor performance of the Snapmaker J1 preset in Orca Slicer on my prin
 - PVA - PLUS (calibrated using PVA)
 
 ### Process presets
+- 0.12mm - Single Material
+- 0.12mm - Multi Material
+- 0.12mm - Multi Material 2
 - 0.16mm - Single Material
 - 0.16mm - Multi Material
+- 0.16mm - Multi Material 2
 - 0.20mm - Single Material
 - 0.20mm - Multi Material
+- 0.20mm - Multi Material 2
 
 Single Material: Suitable for normal single material printing, with high efficiency and the ability to generate normal supports.
 
