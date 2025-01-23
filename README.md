@@ -11,6 +11,7 @@ Since the Snapmaker J1 preset in Orca Slicer performs very poorly on my printer,
 
 ### Material Presets
 ![image](https://github.com/user-attachments/assets/56c005a4-8b8d-44dd-970a-13b71157c6a8)
+- The PA material is of the `BING3D` brand and may not be compatible with conventional PA materials.
 
 ### Process Presets
 ![image](https://github.com/user-attachments/assets/522f2a30-d196-4d0b-9baf-2057484099e6)
@@ -50,6 +51,7 @@ Since the Snapmaker J1 preset in Orca Slicer performs very poorly on my printer,
 
 ### 材料预设
 ![image](https://github.com/user-attachments/assets/56c005a4-8b8d-44dd-970a-13b71157c6a8)
+- PA 材料是 `BING3D` 品牌的，可能对常规的 PA 材料不适配
 
 
 ### 工艺预设
