@@ -14,9 +14,13 @@ Since the Snapmaker J1 preset in Orca Slicer performs very poorly on my printer,
 
 ### Process Presets
 ![image](https://github.com/user-attachments/assets/522f2a30-d196-4d0b-9baf-2057484099e6)
+
 - `XXXX - Brass` refers to the material specifications of the brass nozzle pre-installed on the machine at the time of factory shipment.
+
 ![image](https://github.com/user-attachments/assets/33b67d68-3a81-4bf2-bd8b-28b359f2de49)
+
 - `XXXX - Hardened Steel` refers to the material specifications of the machine's new version of the hardened steel nozzle.
+
 ![image](https://github.com/user-attachments/assets/64e113b5-b073-4394-b546-4e749583425e)
 
 **Same Material**: Suitable for printing with the same type of material. It provides high efficiency and generates normal supports.
@@ -51,9 +55,13 @@ Since the Snapmaker J1 preset in Orca Slicer performs very poorly on my printer,
 
 ### 工艺预设
 ![image](https://github.com/user-attachments/assets/522f2a30-d196-4d0b-9baf-2057484099e6)
+
 - `XXXX - Brass` 指机器出厂时预装的黄铜喷嘴的材料参数。
+
 - ![image](https://github.com/user-attachments/assets/33b67d68-3a81-4bf2-bd8b-28b359f2de49)
+
 - `XXXX - Hardened Steel` 指机器的新版硬化钢喷嘴的材料参数。
+
 ![image](https://github.com/user-attachments/assets/64e113b5-b073-4394-b546-4e749583425e)
 
 Same Material：适用于相同种类的材料打印，拥有较高的效率，可以生成正常的支撑。
