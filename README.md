@@ -33,7 +33,6 @@ Since the Snapmaker J1 preset in Orca Slicer performs very poorly on my printer,
 
 ### Notes
 - These parameters may not be compatible with Orca V2.1.0 or earlier versions.
-- ![image](https://github.com/user-attachments/assets/069a852a-4141-4968-9bd5-6c23eec8b397)
 - Orca V2.2.0 is recommended to be used with [SM2UploaderV2.9](https://github.com/macdylan/sm2uploader/releases/tag/v2.9) for optimal performance. Before Orca supports multiple extruders, remember to use version `2.9` and configure the machine settings as shown in the following screenshots:
 - Don't forget to configure the parameter: `http://127.0.0.1:8899`
 - ![image](https://github.com/user-attachments/assets/9462cf4b-7586-4cb4-9a5a-8a50dd7d4d38)
@@ -74,7 +73,6 @@ Curved Support：（针对其他悬垂角度进行特别优化，适合比较硬
 
 ### 备注
 - 该参数可能不适用于 Orca V2.1.0 或早期版本。
-- ![image](https://github.com/user-attachments/assets/069a852a-4141-4968-9bd5-6c23eec8b397)
 - Orca V2.2.0 建议搭配 [SM2UploaderV2.9](https://github.com/macdylan/sm2uploader/releases/tag/v2.9) 使用，以获得最佳效果，在 Orca 支持多挤出机之前，记住，一定要 `2.9` 版本，然后按照以下截图设置机器：
 - 记得配置参数：`http://127.0.0.1:8899`
 - ![image](https://github.com/user-attachments/assets/9462cf4b-7586-4cb4-9a5a-8a50dd7d4d38)
